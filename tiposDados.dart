@@ -10,13 +10,13 @@ void main() {
    * int - numeros inteiros sem casas decimais
    * double - numeros com ponto flutuante e casas decimais
    */
-  int idade = 18;
+  int idade = 19;
   double altura = 1.80;
 
-
+  String pessoa = "Maria";
+  double salario = 49.560;
 
   int ano = 2025;
-  print(altura);
 
 
   /**

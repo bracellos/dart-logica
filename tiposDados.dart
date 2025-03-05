@@ -18,6 +18,8 @@ void main() {
 
   int ano = 2025;
 
+  int resetar=100;
+
 
   /**
    * Tipo String

@@ -1,0 +1,10 @@
+Crie um programa que percorra um array e exiba todos os elementos.
+Itere sobre um objeto e mostre todas as chaves.
+Liste os valores de um objeto (exemplo: um dicionário em Python).
+Faça um programa que percorra um array e calcule a soma de seus elementos.
+Itere sobre um array de strings e exiba as strings em letras maiúsculas.
+Crie um programa que conta quantos elementos de um array são números pares.
+Imprima o índice e o valor de cada elemento em um array.
+Valide se uma lista contém algum elemento específico.
+Inverta os valores de um array em um novo array (usando for-in).
+Percorra um objeto e mostre chaves e valores na tela.

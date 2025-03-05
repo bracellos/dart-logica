@@ -14,7 +14,8 @@ void main() {
   double altura = 1.80;
 
 
-  print(idade);
+
+  int ano = 2025;
   print(altura);
 
 
